@@ -1,0 +1,17 @@
+{
+  "domain": "wyze",
+  "name": "wyze",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/wyze",
+  "requirements": [
+    "wyze-sdk==1.2.3"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@cgkades"
+  ],
+  "iot_class": "cloud_polling"
+}
